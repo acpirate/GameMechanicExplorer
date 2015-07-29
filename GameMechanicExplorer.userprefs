@@ -1,10 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scenes/Walking and Jumping/5. Double Jump/DoubleJump.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Assets/shell/shellcontroller.cs">
     <Files>
-      <File FileName="Assets/_Scenes/Walking and Jumping/4. Jumping/Jumping.cs" Line="1" Column="1" />
       <File FileName="Assets/_Scenes/Walking and Jumping/3. With Drag/WithDrag.cs" Line="1" Column="1" />
-      <File FileName="Assets/_Scenes/Walking and Jumping/5. Double Jump/DoubleJump.cs" Line="29" Column="24" />
+      <File FileName="Assets/_Scenes/Bullets/3. Aiming/Aiming.cs" Line="1" Column="1" />
+      <File FileName="Assets/Assets/bullets/ShotController.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scenes/Bullets/1. Single Shot/SingleShot.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scenes/Bullets/2. Rapid Fire/RapidFire.cs" Line="1" Column="1" />
+      <File FileName="Assets/Assets/shell/shellcontroller.cs" Line="28" Column="42" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
