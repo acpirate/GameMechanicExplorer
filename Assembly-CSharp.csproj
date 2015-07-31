@@ -48,12 +48,18 @@
   <ItemGroup>
      <Compile Include="Assets\Assets\Player\Horse\AnimationScript.cs" />
      <Compile Include="Assets\Assets\Player\Horse\StopAtScreenEdge.cs" />
+     <Compile Include="Assets\Assets\Player\ship2\StayOnScreen.cs" />
+     <Compile Include="Assets\Assets\Player\ship2\StayOnScreenWithGravity.cs" />
      <Compile Include="Assets\Assets\bullets\ShotController.cs" />
      <Compile Include="Assets\Assets\shell\shellcontroller.cs" />
      <Compile Include="Assets\_Scenes\Bullets\1. Single Shot\SingleShot.cs" />
      <Compile Include="Assets\_Scenes\Bullets\2. Rapid Fire\RapidFire.cs" />
      <Compile Include="Assets\_Scenes\Bullets\3. Aiming\Aiming.cs" />
      <Compile Include="Assets\_Scenes\Bullets\5. Display Trajectory\DrawTrajectory.cs" />
+     <Compile Include="Assets\_Scenes\Spaceship Motion\1. Basic Movement\SpaceShipMoveController.cs" />
+     <Compile Include="Assets\_Scenes\Spaceship Motion\4. Lunar Lander\ExplosionController.cs" />
+     <Compile Include="Assets\_Scenes\Spaceship Motion\4. Lunar Lander\LunarLanderController.cs" />
+     <Compile Include="Assets\_Scenes\Spaceship Motion\4. Lunar Lander\LunarLanderGameController.cs" />
      <Compile Include="Assets\_Scenes\Walking and Jumping\1. Basic Walking\BasicWalking.cs" />
      <Compile Include="Assets\_Scenes\Walking and Jumping\2. With Acceleration\WithAcceleration.cs" />
      <Compile Include="Assets\_Scenes\Walking and Jumping\3. With Drag\WithDrag.cs" />
